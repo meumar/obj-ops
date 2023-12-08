@@ -1,6 +1,6 @@
 {
   "name": "objesh",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This module is for object operations",
   "main": "index.js",
   "scripts": {
