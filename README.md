@@ -3,7 +3,7 @@
 ## Examples
 
 ```
-const objesh = require('./index.js');
+const objesh = require('objesh');
 const object1 = { a: 1, b: 2, c: 3 };
 const object2 = { a: 10, b: 'two', c: 4, d: 5 };
 const priorityProperties = ['c', 'b'];
