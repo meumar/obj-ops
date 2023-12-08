@@ -1,6 +1,6 @@
 {
-  "name": "obj-ops",
-  "version": "1.0.0",
+  "name": "objesh",
+  "version": "1.0.1",
   "description": "This module is for object operations",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/meumar/obj-ops.git"
   },
   "keywords": [
-    "Object"
+    "Object",
+    "Npm"
   ],
   "author": "meumar",
   "license": "ISC",
